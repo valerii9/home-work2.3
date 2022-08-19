@@ -1,0 +1,64 @@
+.dija{
+    background-color: black;
+    color: white;
+    width: 512px;
+    height: 512px;
+    display: inline-block;
+}
+.imgtext{
+    padding-left: 19.73%;
+    padding-right: 19.78%;
+    padding-top: 25.13%;
+    padding-bottom: 4.35%;
+    box-sizing: border-box;
+}
+.flag{
+padding-left: 42.19%;
+padding-right: 42.19%;
+padding-bottom:21.29%;
+}
+.flag2{
+    display: inline-block;
+    padding-left: 100px;
+}
+.flagblue{
+    background-color: #2137FC;;
+    Width: 512px;
+    Height:271.5px;
+}
+.flagyellow{
+    background-color: #FFCE22;
+    Width: 512px;
+    Height:271.5px;
+}
+.hsh{
+    width: 100%;
+    padding-top: 25%;
+}
+.fonwhite{
+    background-color: white;
+    border: 1px solid #000;
+    width: 512px;
+    height: 512px;
+}
+.krug{
+    display: inline-block;
+}
+.krug1{
+    background-color: #2137FC;;
+    height: 45%;
+    border-radius: 50% 50% 0 0 / 100% 100% 0 0; 
+    margin: 5% 5% 0% 5%;
+    box-sizing: border-box;
+}
+.krug2{
+    background-color: #FFCE22;
+    height: 45%;
+    border-radius: 0 0 50% 50% / 0 0 100% 100%; 
+    margin: 0% 5% 5% 5%;
+    box-sizing: border-box;
+}
+.krugimg{
+    width: 90%;
+    box-sizing: border-box;
+}
